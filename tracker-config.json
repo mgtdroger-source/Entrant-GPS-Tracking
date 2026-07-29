@@ -1,0 +1,22 @@
+{
+  "configVersion": 2,
+  "service": "Rally Tracking Event Tracking",
+  "endpoint": "https://script.google.com/macros/s/AKfycbxNFN8oyj8dRviX23CC7AZXlswCwF8_Eor5TDW-ZwM4eSo_VhR7bhuE1CSdR--odxRvvA/exec",
+  "key": "RALLY-TRACKING",
+  "eventId": "RID-20260704-98YNME",
+  "rallyTitle": "GPS PWA TEST",
+  "route": "Route 1",
+  "rallyNo": "1",
+  "driverName": "Roger Lewis",
+  "reportIntervalSeconds": 30,
+  "endOfEvent": {
+    "enabled": true,
+    "latitude": -34.115964,
+    "longitude": 18.386028,
+    "routeDistanceKm": 8.226,
+    "routePointId": "49cbc490-d7c5-4d91-9bf9-392881d2249b",
+    "detectionGateM": 300,
+    "radiusM": 30,
+    "source": "GPS PWA TEST Day 1 Route 1 final waypoint"
+  }
+}
