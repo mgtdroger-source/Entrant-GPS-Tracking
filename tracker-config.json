@@ -1,0 +1,12 @@
+{
+  "configVersion": 1,
+  "service": "Rally Tracking Event Tracking",
+  "endpoint": "https://script.google.com/macros/s/AKfycbxfTKp1GYEPaO-TpRJX1xKBdQ1T0XBVsb5VX40SlXj2n3QzhA3iC18hCIKaICKH63ksUQ/exec",
+  "key": "RALLY-TRACKING",
+  "eventId": "RID-20260704-98YNME",
+  "rallyTitle": "GPS PWA TEST",
+  "route": "Route 1",
+  "rallyNo": "1",
+  "driverName": "Roger Lewis",
+  "reportIntervalSeconds": 15
+}
